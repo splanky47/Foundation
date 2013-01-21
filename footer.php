@@ -1,4 +1,4 @@
-	</div>
+<div class="container" id="footer-wrap">
 	<!-- Main Row -->
 	
 	<!-- Footer -->
@@ -18,13 +18,13 @@
 	</footer>
 	<!-- Footer -->
 
-	</div>
+</div>
 	<!-- container -->
 
 	<!-- Included JS Files -->	
-	<script src="<?php bloginfo('template_url'); ?>/javascripts/foundation.js"></script>
-	<script src="<?php bloginfo('template_url'); ?>/javascripts/orbit-1.3.0.js"></script>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/foundation/3.2.2/javascripts/foundation.min.js"></script>
 	<script src="<?php bloginfo('template_url'); ?>/javascripts/app.js"></script>
+	<script src="<?php bloginfo('template_url'); ?>/javascripts/main.js"></script>
 
 	<?php wp_footer(); ?>
 	
