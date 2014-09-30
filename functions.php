@@ -17,7 +17,7 @@
 	include('functions/comment-function.php');
 	include('functions/thumbnail.php');
 	include('functions/orbit-function.php');
-	include('functions/post-edit.php');
+	//include('functions/post-edit.php');
 	
 	
 ?>
